@@ -1,5 +1,4 @@
 ( function( $ ) {
-alert('we ready!');
 } )( jQuery );
 
 var WebFontConfig = {
